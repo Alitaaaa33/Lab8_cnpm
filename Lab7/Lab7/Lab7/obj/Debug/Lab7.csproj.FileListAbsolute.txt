@@ -1,0 +1,17 @@
+C:\Users\jangg\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\jangg\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\jangg\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.frmLogin.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.DataView.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.frmMain.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.DataItem.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.DataAgent.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.DataOrder.resources
+C:\Users\jangg\source\repos\Lab7\Lab7\obj\Debug\Lab7.DataOrderDetail.resources
